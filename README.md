@@ -21,7 +21,7 @@ Thank you.
 ...
 
 # Cite information
-''
+```
 @inproceedings{lu-etal-2022-attack,
     title = "Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications",
     author = "Lu, Heng-yang  and
@@ -38,4 +38,4 @@ Thank you.
     url = "https://aclanthology.org/2022.coling-1.82",
     pages = "984--993",
 }
-''
+```
